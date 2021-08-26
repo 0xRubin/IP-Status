@@ -14,8 +14,6 @@ namespace IP_Status
 {
     public partial class Main : Form
     {
-        [DllImport("user32.dll")]
-        static extern short GetAsyncKeyState(Keys vKey);
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
     (
