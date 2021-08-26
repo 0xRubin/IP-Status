@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP Status", "IP Status\IP Status.csproj", "{E4451ECF-08B3-4197-9B32-CA418F39A31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4451ECF-08B3-4197-9B32-CA418F39A31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4451ECF-08B3-4197-9B32-CA418F39A31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4451ECF-08B3-4197-9B32-CA418F39A31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4451ECF-08B3-4197-9B32-CA418F39A31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5667FBEA-3CCB-4C1D-B6B6-B727C1961A6B}
+	EndGlobalSection
+EndGlobal
